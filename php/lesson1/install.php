@@ -20,4 +20,4 @@ if($result['rest_only'] === false):?>
 		installation error
 	<?endif;?>
 </body>
-<?endif;
+<?endif;?>
