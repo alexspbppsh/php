@@ -2,7 +2,7 @@
 //define('C_REST_CLIENT_ID','local.');//Application ID
 //define('C_REST_CLIENT_SECRET','SakeVG5mbRdcQet45UUrt6');//Application key
 // or
-define('C_REST_WEB_HOOK_URL','https://bitrix.taipit.ru/rest/6223/xbv3c01521ln80r3/');//url on creat Webhook
+define('C_REST_WEB_HOOK_URL','https://testbitrix.taipit.ru/rest/6223/xujc93343a6yff61/');//url on creat Webhook
 
 //define('C_REST_CURRENT_ENCODING','windows-1251');
 //define('C_REST_IGNORE_SSL',true);//turn off validate ssl by curl
